@@ -1,5 +1,5 @@
-安装配置
-安装
+安装配置  
+安装  
 
 ```
 yum install -y subversion            # 安装
@@ -35,6 +35,7 @@ systemctl restart httpd
 ```
 
 通过http即可访问
+ 
 
-http://svn-dev.netease.com/svn/
+http://svn-dev.netease.com/svn/  
 Authorization: Basic eWFuZ2dlMDE6ekZiV1NwSjU2clpROWM4dg==
